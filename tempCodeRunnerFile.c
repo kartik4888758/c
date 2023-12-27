@@ -1,5 +1,10 @@
-for(i=0;i<3;++i)
-    // {
-    //     printf("%d\n",a[i]);
-    
-    // }
+#include <stdio.h>
+int main()
+{
+    int a=10;
+    int b=20;
+    int c=a+b;
+    printf("the sum is: ", c);
+    return 0;
+
+}
